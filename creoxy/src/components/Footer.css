@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+
+  }
+  
+  .footer a {
+    color: #60a5fa;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  

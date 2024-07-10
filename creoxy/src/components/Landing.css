@@ -1,0 +1,25 @@
+.heading {
+    font-size: xx-large;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+input, button {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+nav{
+    position: fixed;
+    width: 100%
+}
